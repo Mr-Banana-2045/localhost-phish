@@ -1,7 +1,7 @@
 # localhost-phish
 Receive the entered information
 
-https://github.com/Mr-Banana-2045/localhost-phish
+git clone https://github.com/Mr-Banana-2045/localhost-phish
 
 cd localhost-phish
 
